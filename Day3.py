@@ -183,6 +183,7 @@ ____/______/______/______/__"=._o--._   ;o|o;     _._;o;____/______/______/____
 ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 /______/______/______/______/______/______/______/______/______/______/[TomekK]
 *******************************************************************************''') # i use 3 ''' for multiple line string
+# Here is some mistake Check multiple time until code is not working correct
 print("Welcome to Teasure Island ")
 print("Your mission is to find the treasure.")
 choice =input('You are at cross road. Where do you  want to go Type "Left" OR "Right" ').lower()#dont use double quote under double quote
