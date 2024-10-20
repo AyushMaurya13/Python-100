@@ -3,5 +3,4 @@
 <br>
 <h3>This is best Resourse For learning Pytgon </h3>
 <br>
-<ul>
-<h3>Complete me at Least One Hour In a day Please</h3></ul>
+<h3>Complete me at Least One Hour In a day Please</h3>
