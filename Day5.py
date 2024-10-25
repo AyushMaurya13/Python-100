@@ -34,7 +34,7 @@ print(max_score) #print max score
 #Lecture 40😁😁/////////////////
 # For loop with  range() function
 for number in range(1,10,2): # range (start,end,gap)
-    print(number)
+    print(number)#output 1,3,5,7,9
 
 
 #The gauss challenge
